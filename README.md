@@ -1,4 +1,4 @@
-# nft-collection-
+# nft-collection
 basic nft collection that we created using erc721 standard, and minting website to mint nfts
 
 in this repo i only create an basic erc721 contract so please don't use this repo in you real porjects 
